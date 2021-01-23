@@ -1,0 +1,13 @@
+.copyRight__container{
+    padding: 20px 10px;
+    text-align: center;
+}
+
+.copyRight__container p{
+    color: rgb(143, 137, 137)
+}
+
+.copyRight__container a{
+    text-decoration: none;
+    color: rgb(143, 137, 137)
+}
